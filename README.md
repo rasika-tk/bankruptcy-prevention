@@ -65,7 +65,7 @@ Bankruptcy-Prediction/
 
 1. Clone this repository:
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+https://github.com/rasika-tk/bankruptcy-prevention.git
 ```
 
 2. Install the required libraries:
