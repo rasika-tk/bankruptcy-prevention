@@ -45,10 +45,20 @@ Seven classification algorithms were implemented and compared.
 Bankruptcy-Prediction/
 │
 ├── README.md
-├── bankruptcy_prediction.ipynb
+│
+├── Project_Bankruptcy_Prevention.ipynb
+│
 ├── app.py
+│
+├── Bankruptcy_prevention.csv
+│
 ├── requirements.txt
+│
+├── Project_Presentation.pptx
+│
 └── images/
+    ├── dashboard.png
+    └── prediction_result.png
 ```
 
 ## How to Run the Project
