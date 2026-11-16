@@ -42,20 +42,13 @@ Seven classification algorithms were implemented and compared.
 
 ## Project Structure
 ```text
-Bankruptcy-Prediction/
-│
+bankruptcy-prevention/
 ├── README.md
-│
 ├── Project_Bankruptcy_Prevention.ipynb
-│
 ├── app.py
-│
-├── Bankruptcy_prevention.csv
-│
+├── Bankruptcy_prevention_Dataset.csv
 ├── requirements.txt
-│
-├── Project_Presentation.pptx
-│
+├── Bankruptcy_Prevention_Project.pptx
 └── images/
     └── dashboard.png
     
