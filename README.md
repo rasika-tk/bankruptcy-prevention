@@ -1,7 +1,7 @@
 # bankruptcy-prevention
 Bankruptcy Prediction using Machine Learning and Streamlit
 
-# Bankruptcy Prediction | Machine Learning
+# Bankruptcy Prevention | Machine Learning
 
 ## Project Overview
 This project focuses on predicting company bankruptcy using machine learning classification algorithms based on financial and operational risk factors.
