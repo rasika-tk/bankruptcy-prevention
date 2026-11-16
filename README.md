@@ -1,5 +1,5 @@
 # bankruptcy-prevention
-Bankruptcy Prediction using Machine Learning and Streamlit
+Bankruptcy Prevention using Machine Learning and Streamlit
 
 # Bankruptcy Prevention | Machine Learning
 
