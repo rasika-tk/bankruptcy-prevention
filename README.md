@@ -57,8 +57,8 @@ Bankruptcy-Prediction/
 ├── Project_Presentation.pptx
 │
 └── images/
-    ├── dashboard.png
-    └── prediction_result.png
+    └── dashboard.png
+    
 ```
 
 ## How to Run the Project
