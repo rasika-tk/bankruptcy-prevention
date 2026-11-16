@@ -33,7 +33,7 @@ st.markdown("""
 # 2. Load Dataset
 # --------------------------------------------------
 
-df = pd.read_csv(r"C:\Users\rasik\Downloads\Bankruptcy_prevention.csv")
+df = pd.read_csv("Bankruptcy_prevention.csv")
 
 # --------------------------------------------------
 # 3. User Input Parameters
